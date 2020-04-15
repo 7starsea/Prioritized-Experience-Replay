@@ -1,3 +1,6 @@
+#ifndef SHARE_PRIO_EXPERIENCE_H
+#define SHARE_PRIO_EXPERIENCE_H
+
 #include "sum_tree_base.h"
 #include <random>
 #include <cmath>
@@ -33,3 +36,5 @@ private:
 	std::uniform_real_distribution<double> dist_;
 
 };
+
+#endif

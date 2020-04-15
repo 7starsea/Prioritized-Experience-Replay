@@ -10,8 +10,11 @@ Implementation here is simplified version of PrioritizedExperienceReplay in proj
 
 ## Requirement
 python3, (tested on 3.6, 3.7)
+
 pybind11, (tested on 2.4.3)
+
 cmake3, (tested on 3.14)
+
 scikit-build, (tested on 0.10.0), optional
 
 (we use ananconda enviroment for testing)
